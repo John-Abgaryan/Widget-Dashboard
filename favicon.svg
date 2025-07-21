@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="url(#grad1)"/>
+  
+  <!-- Dashboard grid -->
+  <rect x="4" y="4" width="10" height="6" rx="1" fill="white" opacity="0.9"/>
+  <rect x="16" y="4" width="12" height="6" rx="1" fill="white" opacity="0.7"/>
+  <rect x="4" y="12" width="7" height="8" rx="1" fill="white" opacity="0.8"/>
+  <rect x="13" y="12" width="8" height="5" rx="1" fill="white" opacity="0.6"/>
+  <rect x="23" y="12" width="5" height="8" rx="1" fill="white" opacity="0.9"/>
+  <rect x="4" y="22" width="12" height="6" rx="1" fill="white" opacity="0.7"/>
+  <rect x="18" y="22" width="10" height="6" rx="1" fill="white" opacity="0.8"/>
+  
+  <!-- Chart icon in one of the widgets -->
+  <path d="M6 18 L8 16 L10 17 L12 15" stroke="#667eea" stroke-width="1" fill="none" opacity="0.8"/>
+</svg>
